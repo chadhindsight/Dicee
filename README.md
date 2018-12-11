@@ -1,4 +1,4 @@
-#D icee Chalenge
+# Dicee Chalenge
 
 A game of chance bewtween two players.
 
